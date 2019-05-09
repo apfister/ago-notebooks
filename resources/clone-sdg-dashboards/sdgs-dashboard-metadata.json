@@ -1,0 +1,186 @@
+{
+    "1": {
+        "headerPanel": {
+            "title": "Goal 1: End poverty in all its forms everywhere",
+            "subtitle": "United Nations Global SDG Dashboard",
+            "logoIcon": "<svg id=\"Layer_1\" data-name=\"Layer 1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1000 1000\">\n  <defs>\n    <style>\n      .cls-1 {\n        fill: #e5243b;\n      }\n\n      .cls-2 {\n        fill: #fff;\n      }\n    </style>\n  </defs>\n  <title>Artboard 1</title>\n  <rect class=\"cls-1\" width=\"1000\" height=\"1000\"/>\n  <polygon class=\"cls-2\" points=\"299.13 113.19 299.13 164.56 287.55 164.56 287.55 82.8 301.04 82.8 315.89 129.72 315.89 82.8 327.35 82.8 327.35 164.56 315.29 164.56 299.13 113.19\"/>\n  <path class=\"cls-2\" d=\"M357.12,165.54c14.61,0,20.86-9.41,20.86-22.08V103.91c0-12.8-6.25-22.07-20.86-22.07s-20.74,9.27-20.74,22.07v39.55c0,12.67,6.27,22.08,20.74,22.08m-7-63.81c0-5,2.17-8.43,7-8.43s7.12,3.48,7.12,8.43v43.9c0,5-2.18,8.44-7.12,8.44s-7-3.49-7-8.44Z\"/>\n  <path class=\"cls-2\" d=\"M301.3,257.64h6.62c13.88,0,18.94-7,18.94-18.45V222c0-11.46-5.06-18.34-18.94-18.34H287.55v81.77H301.3Zm0-42.81h5.06c4.71,0,6.75,2.18,6.75,6.63v18.8c0,4.48-2,6.77-6.75,6.77H301.3Z\"/>\n  <path class=\"cls-2\" d=\"M355.8,286.34c14.61,0,20.87-9.4,20.87-22.06V224.71c0-12.78-6.26-22.06-20.87-22.06s-20.74,9.28-20.74,22.06v39.57c0,12.66,6.27,22.06,20.74,22.06m-7-63.79c0-5,2.16-8.44,7-8.44s7.13,3.49,7.13,8.44v43.89c0,4.95-2.18,8.45-7.13,8.45s-7-3.5-7-8.45Z\"/>\n  <polygon class=\"cls-2\" points=\"411.75 285.38 427.31 203.61 414.4 203.61 404.75 260.65 404.62 260.65 395.22 203.61 381.23 203.61 396.79 285.38 411.75 285.38\"/>\n  <polygon class=\"cls-2\" points=\"466.98 274.17 447.93 274.17 447.93 249.31 461.55 249.31 461.55 238.22 447.93 238.22 447.93 214.83 466.98 214.83 466.98 203.61 434.18 203.61 434.18 285.38 466.98 285.38 466.98 274.17\"/>\n  <path class=\"cls-2\" d=\"M489.16,247.87l12.9,37.51h14.48l-13.15-37.15c7.84-1.8,11-7,11-15.8V222c0-11.46-5.07-18.34-18.94-18.34h-20v81.77h13.76Zm0-33h4.57c4.71,0,6.76,2.18,6.76,6.63v12c0,4.35-2.05,6.75-6.76,6.75h-4.57Z\"/>\n  <polygon class=\"cls-2\" points=\"531.48 285.38 545.35 285.38 545.35 214.83 556.69 214.83 556.69 203.61 520.14 203.61 520.14 214.83 531.48 214.83 531.48 285.38\"/>\n  <polygon class=\"cls-2\" points=\"577.29 285.38 591.04 285.38 591.04 254.27 606.23 203.61 593.09 203.61 584.78 234.6 584.66 234.6 576.33 203.61 561.99 203.61 577.29 254.27 577.29 285.38\"/>\n  <polygon class=\"cls-2\" points=\"139.62 131.52 139.92 131.52 139.92 285.86 173.81 285.86 173.81 84.23 146.74 84.23 115.53 120.81 115.53 156.19 115.83 156.19 139.62 131.52\"/>\n  <g>\n    <path class=\"cls-2\" d=\"M770.13,477.09a27.67,27.67,0,1,1,27.7,27.69,27.7,27.7,0,0,1-27.7-27.69\"/>\n    <path class=\"cls-2\" d=\"M830.15,515.45a36.89,36.89,0,0,1,33.5,36.77V629a10.73,10.73,0,0,1-21.46,0V563.05c0-2.48-.71-5.82-5.23-5.82-3.13,0-3.78,3.31-3.89,5.42V760.19a15.43,15.43,0,0,1-30.86,0V646.36c0-1.26-.46-4.52-4.38-4.52h0c-3.93,0-4.41,3.26-4.45,4.52V760.19a15.42,15.42,0,1,1-30.83,0V562.65c-.1-2.11-.78-5.42-3.88-5.42-4.54,0-5.23,3.34-5.23,5.82V629A10.73,10.73,0,0,1,732,629V552.22a36.91,36.91,0,0,1,33.55-36.77,15.26,15.26,0,0,1,2-.17H828a16.4,16.4,0,0,1,2.11.17\"/>\n  </g>\n  <g>\n    <path class=\"cls-2\" d=\"M605.5,491.63a26.21,26.21,0,1,0-26.19,26.22,26.21,26.21,0,0,0,26.19-26.22\"/>\n    <path class=\"cls-2\" d=\"M526.48,551,504.69,622s-3.88,13,7.15,16.25,14.31-9.44,14.31-9.44l17.57-59.21s1-4.56,4.38-3.57,2.14,5.85,2.14,5.85l-30.58,111H548.1v79.47a13.66,13.66,0,0,0,27.31,0V682.79h7.76v79.47a13.67,13.67,0,0,0,27.33,0V682.79h28.43l-30.56-111S607.08,567,610.5,566s4.38,3.57,4.38,3.57l17.57,59.21s3.34,12.69,14.3,9.44S653.9,622,653.9,622L632.11,551s-7.78-20.51-25-20.51H551.53c-17.24,0-25,20.51-25,20.51\"/>\n  </g>\n  <g>\n    <path class=\"cls-2\" d=\"M448.49,491.63a26.21,26.21,0,1,0-26.2,26.22,26.22,26.22,0,0,0,26.2-26.22\"/>\n    <path class=\"cls-2\" d=\"M369.46,551,347.68,622s-3.9,13,7.14,16.25,14.31-9.44,14.31-9.44l17.57-59.21s.95-4.56,4.38-3.57,2.13,5.85,2.13,5.85l-30.57,111h28.44v79.47a13.66,13.66,0,0,0,27.32,0V682.79h7.76v79.47a13.66,13.66,0,0,0,27.31,0V682.79h28.45l-30.56-111s-1.3-4.87,2.11-5.85,4.39,3.57,4.39,3.57l17.56,59.21s3.34,12.69,14.31,9.44S496.87,622,496.87,622L475.08,551s-7.77-20.51-25-20.51H394.51c-17.23,0-25.05,20.51-25.05,20.51\"/>\n  </g>\n  <g>\n    <path class=\"cls-2\" d=\"M693.54,638.35a21.82,21.82,0,1,0-21.82-21.84,21.8,21.8,0,0,0,21.82,21.84\"/>\n    <path class=\"cls-2\" d=\"M641.23,706.13c-1.07,2.55-1.94,8,3.18,10.32,6,2.76,9.35-3,9.35-3l11.86-37.83s2.06-2.53,2.06.09v89.05h.05a11.2,11.2,0,0,0,22.39,0V729.57s-.65-5,3.36-5,3.38,5,3.38,5v35.15a11.22,11.22,0,0,0,22.44,0V675.67c0-2.62,1.38-.75,1.38-.75l9.3,25.9s4,11.57,5.28,12.08a8.26,8.26,0,0,0,10.81-4.47,8.16,8.16,0,0,0-.88-8l.08-.08c-.27-.84-13.9-34.26-15.5-38.95-4.92-14.37-13.88-14.24-22.5-14.48s-13.79,0-13.79,0-5.51-.22-16.9.11-15,6.19-27.51,38.46c-1.79,4.65-7.84,19.68-7.92,20.58Z\"/>\n  </g>\n  <g>\n    <path class=\"cls-2\" d=\"M186.66,504.78A27.69,27.69,0,1,0,159,477.09,27.72,27.72,0,0,0,186.66,504.78Z\"/>\n    <path class=\"cls-2\" d=\"M219.22,515.31A18.06,18.06,0,0,0,217,515h-60.5a13.66,13.66,0,0,0-2,.31A37,37,0,0,0,121,552.22V629a10.66,10.66,0,0,0,5.61,9.46,4.07,4.07,0,0,0-.36.94l-24.6,130.3a4,4,0,0,0,3.22,4.74,3.81,3.81,0,0,0,.75.07,4.05,4.05,0,0,0,4-3.31l24.58-130.3a4,4,0,0,0-.15-1.51A10.62,10.62,0,0,0,142,629V563.05c0-2.48.65-5.82,5.17-5.82,3.12,0,3.83,3.31,3.83,5.42V760.19a15.5,15.5,0,0,0,31,0V646.36a4.3,4.3,0,0,1,4.66-4.36h0c3.93,0,4.33,3.1,4.33,4.36V760.19a15.5,15.5,0,0,0,31,0V562.65c0-2.11.74-5.42,3.83-5.42,4.55,0,5.17,3.34,5.17,5.82V629a11,11,0,0,0,22,0V552.22A37.25,37.25,0,0,0,219.22,515.31Z\"/>\n  </g>\n  <g>\n    <path class=\"cls-2\" d=\"M326.16,674.41l20.25-36.75s2.44-5.28,2.44-6.54a8,8,0,0,0-14.72-4.21l-.09,0c-.64.55-10.83,18.63-14.19,22-3.55,3.59-6.74,3.14-6.74,3.14H286.67s-3.2.45-6.74-3.14c-3.4-3.36-13.54-21.47-14.19-22l-.07.06A8,8,0,0,0,251,631.11a14.41,14.41,0,0,0,.78,3.49l21.95,39.81a14.62,14.62,0,0,1,1.29,5.25v7.84L263.5,730H275v35h.15a10.94,10.94,0,0,0,10.94,10.83A10.81,10.81,0,0,0,297,765.14V731.41a1.8,1.8,0,0,1-.38-1.41h6.5a3.39,3.39,0,0,1-.12,1.41v33.73a11,11,0,0,0,22,0V730h11.29L325,687.25v-7.59A15.92,15.92,0,0,1,326.16,674.41Z\"/>\n    <path class=\"cls-2\" d=\"M299.88,638.35a21.82,21.82,0,1,0-21.81-21.84A21.8,21.8,0,0,0,299.88,638.35Z\"/>\n  </g>\n</svg>",
+            "logoIconFillColor": "#e5243b",
+            "backgroundColor": "#e5243b"
+        },
+        "listWidget": {
+            "text": "<p><strong>{geoAreaName}:&nbsp;<span style=\"color:#e5243b\">{latest_value}&nbsp;&nbsp;&nbsp;</span></strong> (in year&nbsp;<span style=\"color:#e5243b\">{latest_year}</span>)</p>\n",
+            "captionColor": "#e5243b"
+        },
+        "indicatorWidget": {
+            "defaultSettings": {
+                "textColor": "#ffffff",
+                "backgroundColor": "#e5243b"
+            }
+        },
+        "serialChartWidget": {
+            "graphs": {
+                "lineColor": "#e5243b"
+            }
+        },
+        "embeddedContentWidget": {
+            "url": "https://unstats.un.org/sdgs/assets/img/sliders/2017_goal_images/Goal-1.png"
+        }
+    },
+    "2": {
+        "headerPanel": {
+            "title": "Goal 2: End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
+            "subtitle": "United Nations Global SDG Dashboard",
+            "logoIcon": "<svg id=\"Layer_1\" data-name=\"Layer 1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1000 1000\">\n  <defs>\n    <style>\n      .cls-1 {\n        fill: #dda63a;\n      }\n\n      .cls-2 {\n        fill: #fff;\n      }\n    </style>\n  </defs>\n  <title>Artboard 1</title>\n  <rect id=\"_Path_\" data-name=\"&lt;Path&gt;\" class=\"cls-1\" y=\"-0.02\" width=\"1000\" height=\"1000.04\"/>\n  <path id=\"_Path_2\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M187,257.76H131.41v-9.52c0-15.75,5.65-21.7,14.27-30.92l21.7-22.9c17.55-18.73,21.42-30.63,21.42-50.86V123.94c0-28.84-14-42.53-44.31-42.53-29.73,0-44.91,15.76-44.91,44V149.8h30.94V124.52c0-12.18,5.94-15.76,13.09-15.76,6.53,0,12.18,2.69,12.18,15.18v16.65c0,16.66-1.49,23.2-12.49,34.79l-19,20.22C105.84,215.24,99,228.33,99,248.24v37.18h88Z\"/>\n  <g>\n    <path id=\"_Path_3\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M413.12,849.72v14.07a1.54,1.54,0,0,0-.05.31,1.63,1.63,0,0,0,.05.33,6.6,6.6,0,0,0,6.48,6.32s.08,0,.13,0l.16,0h165s.09,0,.14,0l.15,0a6.63,6.63,0,0,0,6.5-6.6s0,0,0,0a.07.07,0,0,1,0-.05V848.14c92.86-30.44,162.43-105.7,177.73-197.42,0-.2.06-.38.09-.55a5.85,5.85,0,0,0,.09-.92,6.66,6.66,0,0,0-6.67-6.67H237.14a6.67,6.67,0,0,0-6.69,6.67l.35,3c16.07,92.59,87.54,168.27,182.32,197.47\"/>\n    <path id=\"_Path_4\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M591.49,418.2c-2.17,3.08-53,76.21,1.13,135.34,24.81,27.14,22.66,51.08,15.58,67.25h34.7c7-23.87,4.12-53.82-24-84.6-39.86-43.58.51-102.47,1.12-103.38,4.76-6.72,2.21-15.38-5.63-19.42s-18.07-1.87-22.85,4.81\"/>\n    <path id=\"_Path_5\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M503.61,620.79h34.71c7-23.88,4.11-53.82-24.06-84.6-39.88-43.58.46-102.45,1.1-103.41,4.73-6.69,2.23-15.34-5.64-19.39s-18.06-1.88-22.82,4.81c-2.18,3.07-53,76.21,1.13,135.34,24.81,27.14,22.64,51.09,15.58,67.25\"/>\n    <path id=\"_Path_6\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M382.29,418.2c-2.2,3.08-53,76.21,1.12,135.34,24.82,27.15,22.67,51.09,15.6,67.25h34.7c7-23.86,4.12-53.81-24.08-84.6-39.87-43.58.5-102.47,1.14-103.4,4.71-6.7,2.2-15.36-5.67-19.4s-18.05-1.88-22.81,4.81\"/>\n  </g>\n  <g id=\"_Group_\" data-name=\"&lt;Group&gt;\">\n    <path id=\"_Compound_Path_\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M299.06,154.31h20.85v11.21h-35.2V154.31L306.29,95H286.88V83.79h33.88V95Z\"/>\n    <path id=\"_Compound_Path_2\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M329.2,83.79H362V95H342.94v23.39h13.62v11.09H342.94v24.83H362v11.21H329.2Z\"/>\n    <path id=\"_Compound_Path_3\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M384.29,128v37.49H370.54V83.79h20c13.86,0,18.93,6.87,18.93,18.32V112.6c0,8.8-3.14,14-11,15.79l13.15,37.13H397.19Zm0-33v25.44h4.58c4.7,0,6.75-2.42,6.75-6.76V101.63c0-4.46-2.05-6.63-6.75-6.63Z\"/>\n    <path id=\"_Compound_Path_4\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M418.16,144.43V104.88c0-12.78,6.27-22.06,20.74-22.06s20.86,9.28,20.86,22.06v39.55c0,12.66-6.27,22.06-20.86,22.06S418.16,157.09,418.16,144.43ZM446,146.6V102.71c0-4.94-2.17-8.44-7.11-8.44s-7,3.5-7,8.44V146.6c0,4.94,2.17,8.44,7,8.44S446,151.54,446,146.6Z\"/>\n  </g>\n  <g id=\"_Group_2\" data-name=\"&lt;Group&gt;\">\n    <path id=\"_Compound_Path_5\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M312.49,249.23H299.22v36H285.48V203.54h13.74v34.6h13.27v-34.6h13.86v81.74H312.49Z\"/>\n    <path id=\"_Compound_Path_6\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M375.29,203.54v61.84c0,12.66-5.42,20.86-19.41,20.86-14.46,0-20.49-8.2-20.49-20.86V203.54h13.74v63.17c0,4.82,1.93,8.08,6.75,8.08s6.76-3.26,6.76-8.08V203.54Z\"/>\n    <path id=\"_Compound_Path_7\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M395.91,233.92v51.36H384.33V203.54h13.51l14.83,46.9v-46.9h11.45v81.74H412.06Z\"/>\n    <path id=\"_Compound_Path_8\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M453.89,241.63h19.54v43.65h-9.89v-8.92c-1.81,6.14-5.67,9.88-13.14,9.88-11.82,0-17.24-9.4-17.24-22.06V224.64c0-12.78,6.15-22.07,20.61-22.07,15.19,0,19.66,8.44,19.66,20.5v7.23H460.89V222c0-5.06-1.93-7.95-6.87-7.95s-7.12,3.49-7.12,8.44v43.88c0,4.94,2.05,8.44,6.75,8.44,4.46,0,6.76-2.53,6.76-7.84V252.49h-6.52Z\"/>\n    <path id=\"_Compound_Path_9\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M482.46,203.54h32.8v11.21H496.21v23.39h13.62v11.09H496.21v24.84h19.05v11.21h-32.8Z\"/>\n    <path id=\"_Compound_Path_10\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M537.56,247.78v37.5H523.81V203.54h20c13.86,0,18.92,6.87,18.92,18.32v10.49c0,8.8-3.13,14-11,15.79l13.14,37.14H550.46Zm0-33v25.44h4.58c4.7,0,6.75-2.41,6.75-6.75V221.38c0-4.46-2-6.63-6.75-6.63Z\"/>\n  </g>\n</svg>",
+            "logoIconFillColor": "#e5b735",
+            "backgroundColor": "#dda63a"
+        },
+        "listWidget": {
+            "text": "<p><strong>{geoAreaName}:&nbsp;<span style=\"color:#dda63a\">{latest_value}&nbsp;&nbsp;&nbsp;</span></strong> (in year&nbsp;<span style=\"color:#dda63a\">{latest_year}</span>)</p>\n",
+            "captionColor": "#dda63a"
+        },
+        "indicatorWidget": {
+            "defaultSettings": {
+                "textColor": "#ffffff",
+                "backgroundColor": "#dda63a"
+            }
+        },
+        "serialChartWidget": {
+            "graphs": {
+                "lineColor": "#dda63a"
+            }
+        },
+        "embeddedContentWidget": {
+            "url": "https://unstats.un.org/sdgs/assets/img/sliders/2017_goal_images/Goal-2.png"
+        }
+    },
+    "3": {
+        "headerPanel": {
+            "title": "Goal 3: Ensure healthy lives and promote well-being for all at all ages",
+            "subtitle": "United Nations Global SDG Dashboard",
+            "logoIcon": "<svg id=\"Layer_1\" data-name=\"Layer 1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1000 1000\">\n  <defs>\n    <style>\n      .cls-1 {\n        fill: #4c9f38;\n      }\n\n      .cls-2 {\n        fill: #fff;\n      }\n    </style>\n  </defs>\n  <title>Artboard 1</title>\n  <rect id=\"_Path_\" data-name=\"&lt;Path&gt;\" class=\"cls-1\" y=\"-0.02\" width=\"1000\" height=\"1000.03\"/>\n  <g>\n    <path id=\"_Path_2\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M142.7,288.14c34.21,0,49.08-18.15,49.08-46.1V212.31c0-18.44-8-30.34-25-34.2,14-4.46,23.19-15.77,23.19-32.71V127.85c0-28.55-13.68-46.09-44.9-46.09-35.1,0-47.3,20.8-47.3,50.55v17.84h30.93V129.63c0-12.49,3.88-19.62,14.58-19.62s14.56,7.13,14.56,18.13v21.71c0,10.71-7.13,16.35-18.12,16.35h-12.8v25.89h14.28c11.89,0,16.64,5.64,16.64,16.35v33.31c0,10.7-4.75,18.15-15.16,18.15-11.59,0-15.76-7.75-15.76-19.64V211.42H96v26.46c0,30.64,12.18,50.26,46.67,50.26\"/>\n    <g>\n      <path id=\"_Path_3\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M835.26,625c0-28.14-18-51-45.4-51-13.67,0-30.17,15-39.13,24.19-9-9.23-24.36-24.21-38-24.21-27.34,0-46.51,22.81-46.51,51a51.51,51.51,0,0,0,14.51,36h0l70.1,70.23,70-70.15-.06-.05A51.55,51.55,0,0,0,835.26,625Z\"/>\n      <g id=\"_Group_\" data-name=\"&lt;Group&gt;\">\n        <path id=\"_Path_4\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M536.81,845.88l-.72,0a11.48,11.48,0,0,1-10.63-9.54L489.85,628.93l-53.94,100a11.51,11.51,0,0,1-21.52-3.83l-22.9-160.05-41.89,94.1A11.54,11.54,0,0,1,339.08,666H176.25a11.52,11.52,0,0,1,0-23H331.6l55.11-123.77a11.51,11.51,0,0,1,21.91,3l23.61,165,53.19-98.63a11.52,11.52,0,0,1,21.48,3.52l33,192.07L660.05,385a11.52,11.52,0,0,1,21.4-1.68l63.23,131.09a11.51,11.51,0,1,1-20.73,10L673.57,420,547.82,837.68A11.5,11.5,0,0,1,536.81,845.88Z\"/>\n      </g>\n    </g>\n    <g id=\"_Group_2\" data-name=\"&lt;Group&gt;\">\n      <path id=\"_Compound_Path_\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M306.23,121.79h19.54v43.65h-9.89v-8.93c-1.81,6.15-5.67,9.89-13.14,9.89-11.82,0-17.24-9.4-17.24-22.06V104.79c0-12.78,6.15-22.06,20.61-22.06,15.19,0,19.66,8.44,19.66,20.5v7.23H313.23v-8.32c0-5.06-1.93-8-6.87-8s-7.12,3.5-7.12,8.44v43.89c0,4.94,2.05,8.44,6.75,8.44,4.46,0,6.76-2.53,6.76-7.84V132.64h-6.52Z\"/>\n      <path id=\"_Compound_Path_2\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M334.8,144.34V104.79c0-12.78,6.27-22.06,20.74-22.06S376.4,92,376.4,104.79v39.55c0,12.66-6.27,22.06-20.86,22.06S334.8,157,334.8,144.34Zm27.85,2.17V102.62c0-4.94-2.17-8.44-7.11-8.44s-7,3.5-7,8.44v43.89c0,4.94,2.17,8.44,7,8.44S362.65,151.45,362.65,146.51Z\"/>\n      <path id=\"_Compound_Path_3\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M385.44,144.34V104.79c0-12.78,6.27-22.06,20.74-22.06S427,92,427,104.79v39.55c0,12.66-6.27,22.06-20.85,22.06S385.44,157,385.44,144.34Zm27.85,2.17V102.62c0-4.94-2.17-8.44-7.11-8.44s-7,3.5-7,8.44v43.89c0,4.94,2.17,8.44,7,8.44S413.29,151.45,413.29,146.51Z\"/>\n      <path id=\"_Compound_Path_4\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M477.18,105.64v37.85c0,12.54-5.18,21.95-19.89,21.95H436.07V83.7h21.22C472,83.7,477.18,93,477.18,105.64ZM455.6,154.22c5.67,0,7.84-3.37,7.84-8.32V103.11c0-4.83-2.17-8.2-7.84-8.2h-5.78v59.31Z\"/>\n      <path id=\"_Compound_Path_5\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M531.92,129.39H518.66v36.05H504.91V83.7h13.75v34.6h13.26V83.7h13.86v81.74H531.92Z\"/>\n      <path id=\"_Compound_Path_6\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M554.82,83.7h32.8V94.91h-19V118.3h13.62v11.09H568.57v24.83h19v11.22h-32.8Z\"/>\n      <path id=\"_Compound_Path_7\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M594,165.44,609.44,83.7h15.67l15.55,81.74H626.55L624,150.49H609.44L607,165.44Zm17.24-25.92h11l-5.42-32.8h-.12Z\"/>\n      <path id=\"_Compound_Path_8\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M647.53,83.7h13.74v70.52h16.4v11.22H647.53Z\"/>\n      <path id=\"_Compound_Path_9\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M675.74,83.7h36.53V94.91H700.94v70.53H687.07V94.91H675.74Z\"/>\n      <path id=\"_Compound_Path_10\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M746.87,129.39H733.61v36.05H719.87V83.7h13.74v34.6h13.26V83.7h13.86v81.74H746.87Z\"/>\n    </g>\n    <g id=\"_Group_3\" data-name=\"&lt;Group&gt;\">\n      <path id=\"_Compound_Path_11\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M283.43,285.29l15.43-81.74h15.67l15.55,81.74H316l-2.53-15H298.86l-2.41,15Zm17.24-25.92h11l-5.43-32.79h-.12Z\"/>\n      <path id=\"_Compound_Path_12\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M348.53,233.93v51.36H337V203.55h13.51l14.82,46.9v-46.9h11.46v81.74H364.68Z\"/>\n      <path id=\"_Compound_Path_13\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M426.89,225.5v37.85c0,12.54-5.18,21.94-19.89,21.94H385.78V203.55H407C421.71,203.55,426.89,212.84,426.89,225.5Zm-21.58,48.58c5.67,0,7.84-3.37,7.84-8.32V223c0-4.82-2.17-8.19-7.84-8.19h-5.79v59.31Z\"/>\n      <path id=\"_Compound_Path_14\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M479.45,234.78l-7.71,50.51h-12.9l-11-81.74h13.26l6.39,51.84h.12l6.87-51.84h11.21l7.6,51.84h.12l6.27-51.84h11.57l-10.61,81.74h-13l-8.08-50.51Z\"/>\n      <path id=\"_Compound_Path_15\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M518.39,203.55h32.79v11.22h-19v23.38h13.62v11.1H532.14v24.83h19v11.21H518.39Z\"/>\n      <path id=\"_Compound_Path_16\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M559.74,203.55h13.75v70.53h16.39v11.21H559.74Z\"/>\n      <path id=\"_Compound_Path_17\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M597.36,203.55H611.1v70.53h16.4v11.21H597.36Z\"/>\n      <path id=\"_Compound_Path_18\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M625.69,237H645V248H625.69Z\"/>\n      <path id=\"_Compound_Path_19\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M653.18,203.55h19.89c13.74,0,18.32,6.39,18.32,18v8.32c0,6.87-2.53,11.21-8.19,13,6.87,1.56,10.24,6.14,10.24,13.62v10.85c0,11.57-5.18,18-18.92,18H653.18ZM666.92,238h4.82c4.46,0,6.51-2.29,6.51-6.63v-10c0-4.46-2-6.63-6.63-6.63h-4.7Zm0,10.49v25.56h6c4.58,0,6.75-2.29,6.75-6.63v-12.3c0-4.34-2.05-6.63-6.87-6.63Z\"/>\n      <path id=\"_Compound_Path_20\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M701.52,203.55h32.79v11.22h-19v23.38h13.63v11.1H715.26v24.83h19v11.21H701.52Z\"/>\n      <path id=\"_Compound_Path_21\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M742.87,203.55h13.74v81.74H742.87Z\"/>\n      <path id=\"_Compound_Path_22\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M777.35,233.93v51.36H765.78V203.55h13.5l14.83,46.9v-46.9h11.45v81.74h-12Z\"/>\n      <path id=\"_Compound_Path_23\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M835.34,241.65h19.53v43.64H845v-8.92c-1.81,6.15-5.66,9.89-13.14,9.89-11.81,0-17.24-9.41-17.24-22.07V224.65c0-12.78,6.15-22.06,20.62-22.06,15.19,0,19.65,8.44,19.65,20.49v7.24H842.33V222c0-5.06-1.93-8-6.87-8s-7.12,3.5-7.12,8.44v43.89c0,4.94,2,8.43,6.76,8.43,4.46,0,6.75-2.53,6.75-7.83V252.5h-6.51Z\"/>\n    </g>\n  </g>\n</svg>",
+            "backgroundColor": "#4c9f38"
+        },
+        "listWidget": {
+            "text": "<p><strong>{geoAreaName}:&nbsp;<span style=\"color:#4c9f38\">{latest_value}&nbsp;&nbsp;&nbsp;</span></strong> (in year&nbsp;<span style=\"color:#4c9f38\">{latest_year}</span>)</p>\n",
+            "captionColor": "#4c9f38"
+        },
+        "indicatorWidget": {
+            "defaultSettings": {
+                "textColor": "#ffffff",
+                "backgroundColor": "#4c9f38"
+            }
+        },
+        "serialChartWidget": {
+            "graphs": {
+                "lineColor": "#4c9f38"
+            }
+        },
+        "embeddedContentWidget": {
+            "url": "https://unstats.un.org/sdgs/assets/img/sliders/2017_goal_images/Goal-3.png"
+        }
+    },
+    "4": {
+        "headerPanel": {
+            "title": "Goal 4",
+            "subtitle": "United Nations Global SDG Dashboard",
+            "logoImageURL": "https://unstats.un.org/sdgs/assets/img/sliders/goal4_menu_icon.jpg",
+            "backgroundColor": "#c5192d"
+        },
+        "listWidget": {
+            "text": "<p><strong>{geoAreaName}:&nbsp;<span style=\"color:#c5192d\">{latest_value}&nbsp;&nbsp;&nbsp;</span></strong> (in year&nbsp;<span style=\"color:#c5192d\">{latest_year}</span>)</p>\n",
+            "captionColor": "#c5192d"
+        },
+        "indicatorWidget": {
+            "defaultSettings": {
+                "textColor": "#ffffff",
+                "backgroundColor": "#c5192d"
+            }
+        },
+        "serialChartWidget": {
+            "graphs": {
+                "lineColor": "#c5192d"
+            }
+        },
+        "embeddedContentWidget": {
+            "url": "https://unstats.un.org/sdgs/assets/img/sliders/2017_goal_images/Goal-4.png"
+        }
+    },
+    "5": {
+        "headerPanel": {
+            "title": "Goal 5: Achieve gender equality and empower all women and girls",
+            "subtitle": "United Nations Global SDG Dashboard",
+            "logoImageURL": "https://unstats.un.org/sdgs/assets/img/sliders/goal5_menu_icon.jpg",
+            "backgroundColor": "#ef402d"
+        },
+        "listWidget": {
+            "text": "<p><strong>{geoAreaName}:&nbsp;<span style=\"color:#ef402d\">{latest_value}&nbsp;&nbsp;&nbsp;</span></strong> (in year&nbsp;<span style=\"color:#ef402d\">{latest_year}</span>)</p>\n",
+            "captionColor": "#ef402d"
+        },
+        "indicatorWidget": {
+            "defaultSettings": {
+                "textColor": "#ffffff",
+                "backgroundColor": "#ef402d"
+            }
+        },
+        "serialChartWidget": {
+            "graphs": {
+                "lineColor": "#ef402d"
+            }
+        },
+        "embeddedContentWidget": {
+            "url": "https://unstats.un.org/sdgs/assets/img/sliders/2017_goal_images/Goal-5.png"
+        }
+    },
+    "6": {
+        "headerPanel": {
+            "title": "Goal 6: Ensure availability and sustainable management of water and sanitation for all",
+            "subtitle": "United Nations Global SDG Dashboard",
+            "logoImageURL": "https://unstats.un.org/sdgs/assets/img/sliders/goal6_menu_icon.jpg",
+            "backgroundColor": "#27bfe6"
+        },
+        "listWidget": {
+            "text": "<p><strong>{geoAreaName}:&nbsp;<span style=\"color:#27bfe6\">{latest_value}&nbsp;&nbsp;&nbsp;</span></strong> (in year&nbsp;<span style=\"color:#27bfe6\">{latest_year}</span>)</p>\n",
+            "captionColor": "#27bfe6"
+        },
+        "indicatorWidget": {
+            "defaultSettings": {
+                "textColor": "#ffffff",
+                "backgroundColor": "#27bfe6"
+            }
+        },
+        "serialChartWidget": {
+            "graphs": {
+                "lineColor": "#27bfe6"
+            }
+        },
+        "embeddedContentWidget": {
+            "url": "https://unstats.un.org/sdgs/assets/img/sliders/2017_goal_images/Goal-6.png"
+        }
+    },
+    "7": {
+        "headerPanel": {
+            "title": "Goal 7: Ensure access to affordable, reliable, sustainable and modern energy for all",
+            "subtitle": "United Nations Global SDG Dashboard",
+            "logoIcon": "<svg id=\"Layer_1\" data-name=\"Layer 1\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 1000 1000\">\n  <defs>\n    <style>\n      .cls-1 {\n        fill: #fff;\n      }\n\n      .cls-2 {\n        fill: #fcc30b;\n      }\n    </style>\n  </defs>\n  <title>Artboard 1</title>\n  <rect id=\"_Path_\" data-name=\"&lt;Path&gt;\" class=\"cls-1\" y=\"-0.02\" width=\"1000\" height=\"1000.03\"/>\n  <polygon id=\"_Path_2\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" points=\"102.57 111.45 154.92 111.45 109.7 285.42 143.32 285.42 187.63 115.02 187.63 83.79 102.57 83.79 102.57 111.45\"/>\n  <g>\n    <path id=\"_Compound_Path_\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M500,484.49A146.58,146.58,0,1,0,646.52,631.06,146.56,146.56,0,0,0,500,484.49m-10.85,57.9c0-4.87,4.89-10.25,10.91-10.25s10.85,5.38,10.85,10.25v50.33c0,4.85-4.85,10.17-10.85,10.17s-10.91-5.32-10.91-10.17ZM500,706.16a76.24,76.24,0,0,1-22.65-149v28.39a49.89,49.89,0,1,0,45.18-.07V557.09A76.24,76.24,0,0,1,500,706.16\"/>\n    <path id=\"_Path_3\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M331.73,629.78c0-6.65-5.89-12-11.26-12H256.28c-5.41,0-11.35,5.38-11.35,12s5.94,12.07,11.35,12.07h64.19c5.37,0,11.26-5.41,11.26-12.07\"/>\n    <path id=\"_Path_4\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M755.07,629.78c0-6.65-5.89-12-11.26-12H679.63c-5.41,0-11.35,5.38-11.35,12s5.94,12.07,11.35,12.07h64.18c5.37,0,11.26-5.41,11.26-12.07\"/>\n    <path id=\"_Path_5\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M500,461.53c6.63,0,12-5.89,12-11.26V386.08c0-5.41-5.39-11.35-12-11.35s-12.09,5.94-12.09,11.35v64.19c0,5.37,5.43,11.26,12.09,11.26\"/>\n    <path id=\"_Path_6\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M500,884.86c6.63,0,12-5.89,12-11.26V809.42c0-5.4-5.39-11.35-12-11.35s-12.09,5.95-12.09,11.35V873.6c0,5.37,5.43,11.26,12.09,11.26\"/>\n    <path id=\"_Path_7\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M354,546.19c3.31-5.77.88-13.36-3.8-16l-55.7-31.88c-4.7-2.69-12.52-1-15.83,4.8s-.83,13.43,3.86,16.12l55.71,31.88c4.66,2.67,12.46.9,15.76-4.89\"/>\n    <path id=\"_Path_8\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M721.39,756.47c3.29-5.75.86-13.36-3.8-16l-55.7-31.88c-4.7-2.68-12.53-1-15.83,4.81s-.84,13.43,3.85,16.11l55.71,31.88c4.66,2.67,12.46.9,15.77-4.89\"/>\n    <path id=\"_Path_9\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M583.61,483.77c5.76,3.29,13.35.86,16-3.8l31.87-55.71c2.7-4.7,1-12.53-4.79-15.83s-13.44-.84-16.12,3.86L578.72,468c-2.67,4.67-.9,12.47,4.89,15.78\"/>\n    <path id=\"_Path_10\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M373.33,851.19c5.76,3.29,13.35.86,16-3.81l31.87-55.7c2.69-4.69,1-12.53-4.8-15.83S403,775,400.32,779.71l-31.88,55.7c-2.67,4.66-.9,12.47,4.89,15.78\"/>\n    <path id=\"_Path_11\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M416.14,483.91c5.75-3.31,7.49-11.1,4.81-15.76l-32-55.64c-2.7-4.69-10.32-7.15-16.08-3.84s-7.51,11.17-4.8,15.86l32,55.63c2.69,4.66,10.3,7.07,16.09,3.75\"/>\n    <path id=\"_Path_12\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M627.17,850.9c5.76-3.31,7.49-11.1,4.82-15.75l-32-55.64c-2.7-4.7-10.32-7.16-16.09-3.85s-7.51,11.17-4.79,15.87l32,55.63c2.68,4.66,10.3,7.06,16.08,3.74\"/>\n    <path id=\"_Path_13\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M645.89,545.93c3.31,5.76,11.09,7.49,15.75,4.82l55.63-32c4.7-2.7,7.18-10.33,3.86-16.09s-11.16-7.5-15.86-4.8l-55.63,32c-4.67,2.68-7.07,10.31-3.75,16.08\"/>\n    <path id=\"_Path_14\" data-name=\"&lt;Path&gt;\" class=\"cls-2\" d=\"M278.9,757c3.31,5.76,11.09,7.49,15.76,4.81l55.63-32c4.69-2.7,7.17-10.33,3.84-16.09s-11.16-7.5-15.85-4.81l-55.63,32c-4.67,2.67-7.07,10.31-3.75,16.08\"/>\n  </g>\n  <g id=\"_Group_\" data-name=\"&lt;Group&gt;\">\n    <path id=\"_Compound_Path_2\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M283.48,165.4l15.43-81.73h15.68l15.55,81.73H316l-2.53-14.94H298.91L296.5,165.4Zm17.24-25.92h11l-5.42-32.79h-.12Z\"/>\n    <path id=\"_Compound_Path_3\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M335.2,83.67h32.19V94.88H348.94v23.39h13.75v11.09H348.94v36H335.2Z\"/>\n    <path id=\"_Compound_Path_4\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M372.81,83.67H405V94.88H386.55v23.39H400.3v11.09H386.55v36H372.81Z\"/>\n    <path id=\"_Compound_Path_5\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M409.22,144.31V104.76C409.22,92,415.49,82.7,430,82.7s20.86,9.28,20.86,22.06v39.55c0,12.66-6.27,22.06-20.86,22.06S409.22,157,409.22,144.31Zm27.85,2.17V102.59c0-4.94-2.17-8.44-7.12-8.44s-7,3.5-7,8.44v43.89c0,4.94,2.17,8.44,7,8.44S437.07,151.42,437.07,146.48Z\"/>\n    <path id=\"_Compound_Path_6\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M471.78,127.91V165.4H458V83.67h20C491.92,83.67,497,90.54,497,102v10.49c0,8.8-3.13,14-11,15.79l13.14,37.13H484.68Zm0-33v25.43h4.58c4.71,0,6.76-2.41,6.76-6.75v-12c0-4.46-2.05-6.63-6.76-6.63Z\"/>\n    <path id=\"_Compound_Path_7\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M545,105.61v37.85c0,12.54-5.18,21.94-19.89,21.94H503.85V83.67h21.22C539.78,83.67,545,93,545,105.61Zm-21.58,48.58c5.67,0,7.84-3.37,7.84-8.32v-42.8c0-4.82-2.17-8.19-7.84-8.19h-5.79v59.31Z\"/>\n    <path id=\"_Compound_Path_8\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M548.21,165.4l15.43-81.73h15.68l15.55,81.73H580.76l-2.53-14.94H563.64l-2.41,14.94Zm17.24-25.92h11L571,106.69h-.12Z\"/>\n    <path id=\"_Compound_Path_9\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M599.93,83.67h19.89c13.75,0,18.33,6.38,18.33,18V110c0,6.87-2.54,11.21-8.2,13,6.87,1.56,10.25,6.15,10.25,13.62v10.85c0,11.57-5.19,18-18.93,18H599.93Zm13.74,34.48h4.83c4.46,0,6.51-2.3,6.51-6.64v-10c0-4.46-2-6.63-6.63-6.63h-4.71Zm0,10.48v25.56h6c4.58,0,6.75-2.29,6.75-6.63v-12.3c0-4.34-2.05-6.63-6.87-6.63Z\"/>\n    <path id=\"_Compound_Path_10\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M646.46,83.67h13.75v70.52H676.6V165.4H646.46Z\"/>\n    <path id=\"_Compound_Path_11\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M682.26,83.67h32.8V94.88H696v23.39h13.62v11.09H696v24.83h19V165.4h-32.8Z\"/>\n    <path id=\"_Compound_Path_12\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M731.69,165.4l15.43-81.73h15.67l15.56,81.73H764.24l-2.53-14.94H747.12l-2.41,14.94Zm17.24-25.92h11l-5.42-32.79h-.13Z\"/>\n    <path id=\"_Compound_Path_13\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M795,114.05V165.4H783.41V83.67h13.5l14.83,46.89V83.67h11.45V165.4H811.14Z\"/>\n    <path id=\"_Compound_Path_14\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M871.53,105.61v37.85c0,12.54-5.18,21.94-19.89,21.94H830.42V83.67h21.22C866.35,83.67,871.53,93,871.53,105.61ZM850,154.19c5.67,0,7.84-3.37,7.84-8.32v-42.8c0-4.82-2.17-8.19-7.84-8.19h-5.78v59.31Z\"/>\n  </g>\n  <g id=\"_Group_2\" data-name=\"&lt;Group&gt;\">\n    <path id=\"_Compound_Path_15\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M285.54,264.33V225c0-12.71,6-22,20.39-22,15.11,0,19.31,8.4,19.31,20.39V233H312.76V222.35c0-5-1.68-7.91-6.59-7.91s-7,3.47-7,8.39v43.66c0,4.92,2,8.39,7,8.39s6.59-3.12,6.59-7.91V252h12.48v14c0,11.63-4.8,20.27-19.31,20.27S285.54,276.92,285.54,264.33Z\"/>\n    <path id=\"_Compound_Path_16\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M333.87,204h13.67v70.16h16.31v11.16h-30Z\"/>\n    <path id=\"_Compound_Path_17\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M371.29,204h32.62v11.16H385v23.26h13.55v11H385v24.7h19v11.16H371.29Z\"/>\n    <path id=\"_Compound_Path_18\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M410.27,285.32,425.62,204h15.59l15.47,81.32h-14l-2.52-14.87H425.62l-2.4,14.87Zm17.15-25.79h10.91l-5.4-32.62h-.12Z\"/>\n    <path id=\"_Compound_Path_19\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M475,234.23v51.09H463.51V204H477l14.75,46.66V204h11.39v81.32h-12Z\"/>\n    <path id=\"_Compound_Path_20\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M539.67,204h32.62v11.16H553.34v23.26h13.55v11H553.34v24.7h18.95v11.16H539.67Z\"/>\n    <path id=\"_Compound_Path_21\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M592,234.23v51.09H580.45V204h13.43l14.75,46.66V204H620v81.32H608Z\"/>\n    <path id=\"_Compound_Path_22\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M628.9,204h32.62v11.16H642.57v23.26h13.55v11H642.57v24.7h18.95v11.16H628.9Z\"/>\n    <path id=\"_Compound_Path_23\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M683.47,248v37.3H669.79V204H689.7c13.8,0,18.83,6.84,18.83,18.23v10.44c0,8.75-3.12,13.91-10.91,15.71l13.07,36.94H696.3Zm0-32.86v25.3H688c4.68,0,6.72-2.4,6.72-6.71v-12c0-4.44-2-6.59-6.72-6.59Z\"/>\n    <path id=\"_Compound_Path_24\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M737.79,241.9h19.43v43.42h-9.83v-8.88c-1.8,6.12-5.64,9.84-13.07,9.84-11.76,0-17.15-9.36-17.15-21.95V225c0-12.71,6.11-22,20.5-22,15.12,0,19.55,8.4,19.55,20.39v7.2H744.75v-8.28c0-5-1.92-7.91-6.83-7.91s-7.08,3.47-7.08,8.39v43.66c0,4.92,2,8.39,6.71,8.39,4.44,0,6.72-2.52,6.72-7.79V252.7h-6.48Z\"/>\n    <path id=\"_Compound_Path_25\" data-name=\"&lt;Compound Path&gt;\" class=\"cls-2\" d=\"M792.6,254.37v30.95H778.93V254.37L763.7,204H778l8.28,30.83h.12L794.64,204h13.07Z\"/>\n  </g>\n</svg>",
+            "backgroundColor": "#fbc412"
+        },
+        "listWidget": {
+            "text": "<p><strong>{geoAreaName}:&nbsp;<span style=\"color:#fbc412\">{latest_value}&nbsp;&nbsp;&nbsp;</span></strong> (in year&nbsp;<span style=\"color:#fbc412\">{latest_year}</span>)</p>\n",
+            "captionColor": "#fbc412"
+        },
+        "indicatorWidget": {
+            "defaultSettings": {
+                "textColor": "#ffffff",
+                "backgroundColor": "#fbc412"
+            }
+        },
+        "serialChartWidget": {
+            "graphs": {
+                "lineColor": "#fbc412"
+            }
+        },
+        "embeddedContentWidget": {
+            "url": "https://unstats.un.org/sdgs/assets/img/sliders/2017_goal_images/Goal-7.png"
+        }
+    }
+}

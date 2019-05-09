@@ -1,0 +1,393 @@
+[{
+    "series_code": "SI_POV_DAY1",
+    "indicator_code": "C010101",
+    "indicator_name": "Population below international poverty line",
+    "goal_code": "1",
+    "hub_item_id": "ed6ee35ad584405b8f3ef2abc22f6948"
+  },
+  {
+    "series_code": "SI_POV_EMP1",
+    "indicator_code": "C010101",
+    "indicator_name": "Employed population below international poverty line",
+    "goal_code": "1",
+    "hub_item_id": "deb1f4a7e2e14d78a113c53cba2838de"
+  },
+  {
+    "series_code": "SI_POV_NAHC",
+    "indicator_code": "C010201",
+    "indicator_name": "Proportion of population living below the national poverty line",
+    "goal_code": "1",
+    "hub_item_id": "f4cb37d065aa4b6981d93e8266f63fd0"
+  },
+  {
+    "series_code": "SH_STA_STUNT",
+    "indicator_code": "C020201",
+    "indicator_name": "Proportion of children moderately or severely stunted",
+    "goal_code": "2",
+    "hub_item_id": "8c0866ad73ae486ba647f5490fed5529"
+  },
+  {
+    "series_code": "SH_STA_WASTE",
+    "indicator_code": "C020202",
+    "indicator_name": "Proportion of children moderately or severely wasted",
+    "goal_code": "2",
+    "hub_item_id": "30ea76b4f4094d4aa7645a213ccaa4b9"
+  },
+  {
+    "series_code": "SN_ITK_DEFC",
+    "indicator_code": "C020101",
+    "indicator_name": "Prevalence of undernourishment",
+    "goal_code": "2",
+    "hub_item_id": "65925035bb984f66aa03480f6754c4fe"
+  },
+  {
+    "series_code": "SH_STA_OVRWGT",
+    "indicator_code": "C020202",
+    "indicator_name": "Proportion of children moderately or severely overweight",
+    "goal_code": "2",
+    "hub_item_id": "a012070afbd3486d9c0596352b9698d6"
+  },
+  {
+    "series_code": "SH_DYN_MORT",
+    "indicator_code": "C030201",
+    "indicator_name": "Under-five mortality rate",
+    "goal_code": "3",
+    "hub_item_id": "216c7516b9444f289e8f7910c8726e9f"
+  },
+  {
+    "series_code": "SH_HIV_INCD",
+    "indicator_code": "C030301",
+    "indicator_name": "HIV incidence",
+    "goal_code": "3",
+    "hub_item_id": "954b5087e440421ba26a3213c99d9a9f"
+  },
+  {
+    "series_code": "SH_STA_MALR",
+    "indicator_code": "C030303",
+    "indicator_name": "Malaria incidence rate",
+    "goal_code": "3",
+    "hub_item_id": "1a967f6f5fe64fc5b27f49a5c20e4fe4"
+  },
+  {
+    "series_code": "SH_STA_MMR",
+    "indicator_code": "C030101",
+    "indicator_name": "Maternal mortality ratio",
+    "goal_code": "3",
+    "hub_item_id": "0c846dfa5bab411c9a1a21ae40dd0232"
+  },
+  {
+    "series_code": "SH_TBS_INCID",
+    "indicator_code": "C030302",
+    "indicator_name": "Tuberculosis incidence",
+    "goal_code": "3",
+    "hub_item_id": "dc8f11cd784344f18d0478072691b943"
+  },
+  {
+    "series_code": "SH_DTH_NCOM",
+    "indicator_code": "C030401",
+    "indicator_name": "Mortality rate from cardiovascular disease, cancer, diabetes or chronic respiratory disease",
+    "goal_code": "3",
+    "hub_item_id": "512b7b1d05a14b90853ea5ca1d003b1b"
+  },
+  {
+    "series_code": "SE_GPI_MATACH",
+    "indicator_code": "C040501",
+    "indicator_name": "Gender parity index for achievement in mathematics by the end of primary",
+    "goal_code": "4",
+    "hub_item_id": "c24e8fbbada54780b6c36fd899f864b2"
+  },
+  {
+    "series_code": "SE_GPI_REAACH",
+    "indicator_code": "C040501",
+    "indicator_name": "Gender parity index for achievement in reading by the end of primary",
+    "goal_code": "4",
+    "hub_item_id": "7f75a26e77c7487e993799b22ad7ba88"
+  },
+  {
+    "series_code": "SE_GPI_TRATEA",
+    "indicator_code": "C040501",
+    "indicator_name": "Gender parity index of trained teachers in primary education",
+    "goal_code": "4",
+    "hub_item_id": "8f2dd8895e1242db8ef4ca25415d609d"
+  },
+  {
+    "series_code": "SE_PRE_PARTN",
+    "indicator_code": "C040202",
+    "indicator_name": "Participation rate in organized learning",
+    "goal_code": "4",
+    "hub_item_id": "3459681b792a4979a9d9731c75f7f80d"
+  },
+  {
+    "series_code": "IC_GEN_MGTL",
+    "indicator_code": "C050502",
+    "indicator_name": "Women in managerial positions",
+    "goal_code": "5",
+    "hub_item_id": "32abbaca0c3a47c0aae18f50bd7e8f56"
+  },
+  {
+    "series_code": "SG_GEN_PARL",
+    "indicator_code": "C050501",
+    "indicator_name": "Proportion of seats held by women in national parliaments",
+    "goal_code": "5",
+    "hub_item_id": "337524c727bd498c8726f9f6bc6512e1"
+  },
+  {
+    "series_code": "SP_DYN_MRBF18",
+    "indicator_code": "C050301",
+    "indicator_name": "Married or in a union before age 18",
+    "goal_code": "5",
+    "hub_item_id": "2186448878244705a5295710c140b8c3"
+  },
+  {
+    "series_code": "SH_SAN_DEFECT",
+    "indicator_code": "C060201",
+    "indicator_name": "Population practicing open defecation",
+    "goal_code": "6",
+    "hub_item_id": "8f37f35525db476a9da37c7d83beffa9"
+  },
+  {
+    "series_code": "SH_SAN_DEFECT",
+    "indicator_code": "C060201",
+    "indicator_name": "Population practicing open defecation",
+    "goal_code": "6",
+    "hub_item_id": "8f37f35525db476a9da37c7d83beffa9"
+  },
+  {
+    "series_code": "SH_SAN_DEFECT",
+    "indicator_code": "C060201",
+    "indicator_name": "Population practicing open defecation",
+    "goal_code": "6",
+    "hub_item_id": "8f37f35525db476a9da37c7d83beffa9"
+  },
+  {
+    "series_code": "SH_SAN_SAFE",
+    "indicator_code": "C060201",
+    "indicator_name": "Population using safely managed sanitation services",
+    "goal_code": "6",
+    "hub_item_id": "28a9a3072fd940aa9fb0f983d25ef65f"
+  },
+  {
+    "series_code": "SH_SAN_SAFE",
+    "indicator_code": "C060201",
+    "indicator_name": "Population using safely managed sanitation services",
+    "goal_code": "6",
+    "hub_item_id": "28a9a3072fd940aa9fb0f983d25ef65f"
+  },
+  {
+    "series_code": "SH_SAN_SAFE",
+    "indicator_code": "C060201",
+    "indicator_name": "Population using safely managed sanitation services",
+    "goal_code": "6",
+    "hub_item_id": "28a9a3072fd940aa9fb0f983d25ef65f"
+  },
+  {
+    "series_code": "SH_H2O_SAFE",
+    "indicator_code": "C060101",
+    "indicator_name": "Population using safely managed drinking water services",
+    "goal_code": "6",
+    "hub_item_id": "9fd0677f368c48dca6f5e11f64badafd"
+  },
+  {
+    "series_code": "EG_EGY_CLEAN",
+    "indicator_code": "C070102",
+    "indicator_name": "Population with primary reliance on clean fuels and technology",
+    "goal_code": "7",
+    "hub_item_id": "b087399f0b874ab9948714edcd49cbdd"
+  },
+  {
+    "series_code": "EG_ELC_ACCS",
+    "indicator_code": "C070101",
+    "indicator_name": "Population with access to electricity",
+    "goal_code": "7",
+    "hub_item_id": "81cf3e70351c4895828a2486efa2142c"
+  },
+  {
+    "series_code": "NY_GDP_PCAP",
+    "indicator_code": "C080101",
+    "indicator_name": "GDP per capita growth",
+    "goal_code": "8",
+    "hub_item_id": "3cb997d2497148e68dca6787fcb84ca5"
+  },
+  {
+    "series_code": "SL_TLF_UEM",
+    "indicator_code": "C080502",
+    "indicator_name": "Unemployment rate",
+    "goal_code": "8",
+    "hub_item_id": "72c32323563d4a0b9432c9edcb85267a"
+  },
+  {
+    "series_code": "SL_TLF_UEM",
+    "indicator_code": "C080502",
+    "indicator_name": "Unemployment rate",
+    "goal_code": "8",
+    "hub_item_id": "72c32323563d4a0b9432c9edcb85267a"
+  },
+  {
+    "series_code": "SL_TLF_UEM",
+    "indicator_code": "C080502",
+    "indicator_name": "Unemployment rate",
+    "goal_code": "8",
+    "hub_item_id": "72c32323563d4a0b9432c9edcb85267a"
+  },
+  {
+    "series_code": "SL_TLF_UEM",
+    "indicator_code": "C080502",
+    "indicator_name": "Unemployment rate",
+    "goal_code": "8",
+    "hub_item_id": "72c32323563d4a0b9432c9edcb85267a"
+  },
+  {
+    "series_code": "SL_TLF_UEM",
+    "indicator_code": "C080502",
+    "indicator_name": "Unemployment rate",
+    "goal_code": "8",
+    "hub_item_id": "72c32323563d4a0b9432c9edcb85267a"
+  },
+  {
+    "series_code": "EN_ATM_CO2GDP",
+    "indicator_code": "C090401",
+    "indicator_name": "Carbon dioxide emissions per unit of GDP",
+    "goal_code": "9",
+    "hub_item_id": "b5ff535a5fa841659c576685489dfac7"
+  },
+  {
+    "series_code": "GB_XPD_RSDV",
+    "indicator_code": "C090501",
+    "indicator_name": "Research and development expenditure (% of GDP)",
+    "goal_code": "9",
+    "hub_item_id": "a4e6d6a6cc804c3598cc9b96cd96ce67"
+  },
+  {
+    "series_code": "IT_MOB_NTWK",
+    "indicator_code": "C090c01",
+    "indicator_name": "Population covered by at least a 2G mobile network",
+    "goal_code": "9",
+    "hub_item_id": "8943ce6f81b44120b6124fedb3b094d8"
+  },
+  {
+    "series_code": "SL_EMP_GTOTL",
+    "indicator_code": "C100401",
+    "indicator_name": "Labour share of GDP, comprising wages and social protection transfers",
+    "goal_code": "10",
+    "hub_item_id": "635cd0cae73e4b2dae2661407be6eeec"
+  },
+  {
+    "series_code": "EN_ATM_PM25",
+    "indicator_code": "C110602",
+    "indicator_name": "Annual mean levels of fine particulate matter in cities",
+    "goal_code": "11",
+    "hub_item_id": "5b43bb59961a46daa3b8af9384f60103"
+  },
+  {
+    "series_code": "EN_ATM_PM25",
+    "indicator_code": "C110602",
+    "indicator_name": "Annual mean levels of fine particulate matter in cities",
+    "goal_code": "11",
+    "hub_item_id": "5b43bb59961a46daa3b8af9384f60103"
+  },
+  {
+    "series_code": "EN_LND_SLUM",
+    "indicator_code": "C110101",
+    "indicator_name": "Proportion of urban population living in slums",
+    "goal_code": "11",
+    "hub_item_id": "f158f819bd284fd5b35e456a152a069c"
+  },
+  {
+    "series_code": "EN_MAT_DOMCMPC",
+    "indicator_code": "C200203",
+    "indicator_name": "Domestic material consumption per capita",
+    "goal_code": "12",
+    "hub_item_id": "995242b2ec9f4a21975ef7d47b5657bb"
+  },
+  {
+    "series_code": "EN_MAT_FTPRPG",
+    "indicator_code": "C200203",
+    "indicator_name": "Domestic material consumption per unit of GDP",
+    "goal_code": "12",
+    "hub_item_id": "9c33807e2ddf4e348737fab085de0ac1"
+  },
+  {
+    "series_code": "SG_DSR_LEGREG",
+    "indicator_code": "C200304",
+    "indicator_name": "Number of countries with legislative and/or regulatory provisions been made for managing disaster risk",
+    "goal_code": "13",
+    "hub_item_id": "d675ccc2f7054d82b371e64fb2cbface"
+  },
+  {
+    "series_code": "ER_MRN_MARIN",
+    "indicator_code": "C140501",
+    "indicator_name": "Protected area coverage for marine (Economic Exclusion Zones)",
+    "goal_code": "14",
+    "hub_item_id": "2a0cad7f76284e8c978bfcb0fa15cd76"
+  },
+  {
+    "series_code": "AG_LND_FRST",
+    "indicator_code": "C150101",
+    "indicator_name": "Land area covered by forest",
+    "goal_code": "15",
+    "hub_item_id": "e23061ce674142b5b33c46ea5e031658"
+  },
+  {
+    "series_code": "ER_PTD_FRWRT",
+    "indicator_code": "C150102",
+    "indicator_name": "Average proportion of freshwater key biodiversity areas (KBAs) covered by protected areas",
+    "goal_code": "15",
+    "hub_item_id": "5c12290ecd1c4a49bc3734721d941d10"
+  },
+  {
+    "series_code": "ER_PTD_TERRS",
+    "indicator_code": "C150102",
+    "indicator_name": "Average proportion of terrestrial key biodiversity areas (KBAs) covered by protected areas",
+    "goal_code": "15",
+    "hub_item_id": "c2c0216c53744dd7b5278e398328bc99"
+  },
+  {
+    "series_code": "SG_REG_BRTH",
+    "indicator_code": "C160901",
+    "indicator_name": "Proportion of births registered with a civil authority",
+    "goal_code": "16",
+    "hub_item_id": ""
+  },
+  {
+    "series_code": "VC_IHR_PSRC",
+    "indicator_code": "C160101",
+    "indicator_name": "Intentional homicides per 100,000 population",
+    "goal_code": "16",
+    "hub_item_id": "b65e89e905a744e5992889ddc27f8fc7"
+  },
+  {
+    "series_code": "DT_TDS_DECT",
+    "indicator_code": "C170401",
+    "indicator_name": "Debt service as a proportion of exports of goods and services",
+    "goal_code": "17",
+    "hub_item_id": "f16a0c0c54504a84bd7296f42375d73e"
+  },
+  {
+    "series_code": "IT_NET_BBP",
+    "indicator_code": "C170602",
+    "indicator_name": "Fixed broadband subscriptions per 100 inhabitants",
+    "goal_code": "17",
+    "hub_item_id": "f59cf3f8a0ec41a2b601a28682e6f2c8"
+  },
+  {
+    "series_code": "SG_STT_NSDSFND",
+    "indicator_code": "C171803",
+    "indicator_name": "Countries with national statistical plans that are fully funded",
+    "goal_code": "17",
+    "hub_item_id": "bc201a5c69e94e23b45bad86c828f1be"
+  },
+  {
+    "series_code": "SG_STT_NSDSIMPL",
+    "indicator_code": "C171803",
+    "indicator_name": "Countries with national statistical plans that are under implementation",
+    "goal_code": "17",
+    "hub_item_id": "4da2587ef9094c7bb1e2980644211cf2"
+  },
+  {
+    "series_code": "BX_TRF_PWKR",
+    "indicator_code": "C170302",
+    "indicator_name": "Volume of remittances (% of GDP)",
+    "goal_code": "17",
+    "hub_item_id": "68e9ec78abe543889762bbdd36cd3d31"
+  }
+]
